@@ -1,0 +1,24 @@
+.ProductContainer {
+    display: flex;
+    flex-direction: row;
+    border-radius: 2.5em;
+    align-items: center;
+    width: 50em;
+    background-color: #e1c087;
+    padding: 1em;
+    margin:0px auto;
+    margin-top: 7em;
+
+}
+.imgLarge{
+    margin-top: -8em;
+    transform: scale(0.6);
+    border-radius: 1em !important;
+}
+
+.descripContainer {
+    margin-left: 20%;
+    text-align: justify;
+    margin-top: -5em;
+    width: 60%;
+}

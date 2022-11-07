@@ -1,0 +1,13 @@
+.productsGird {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 1em;
+    
+}
+
+.girdPosition {
+    position: absolute;
+    left: 18%;
+    
+}

@@ -1,0 +1,32 @@
+.topNavigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 0.5em;
+    padding-top: 1em;
+    background-color: #aa997f;
+    color: white;
+    height: 2em;
+}
+
+ul {
+
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+ul li {
+    margin: 0.50em;
+    font-size: 0.75em;
+}
+
+ul li a {
+    color:white;
+    text-decoration: none;
+} 
+
+ul li a:hover{
+    color: #473009 !important;
+}

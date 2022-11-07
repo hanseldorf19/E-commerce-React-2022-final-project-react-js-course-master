@@ -1,0 +1,5 @@
+.productCard {
+    transform: scale(0.8);
+    padding: 0.5em;
+    margin: 0.5em;
+}

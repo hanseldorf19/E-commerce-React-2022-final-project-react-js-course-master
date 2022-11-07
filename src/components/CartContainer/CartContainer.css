@@ -1,0 +1,68 @@
+.CartContainer {
+    margin-left: 9em;
+    text-align:center;
+    width: 95em;
+}
+.ProductCard {
+    display: block;
+    margin: 10em 3em;
+    margin-left: 5em;
+    width: 30em;
+    height: 30em;
+    background-color: #C1974F;
+    border-radius: 1em;
+}
+
+.innerProd {
+    transform: scale(0.7);
+    margin: 1em;
+    background-color: #fff;
+    border-radius: 0.5em;
+    padding: 0.5em;
+    padding-bottom: 1em;
+
+}
+
+.formCompra {
+    margin: 15em auto;
+    background-color: #C1974F;
+    border-radius: 1em;
+    padding: 2em;
+    align-items: center;
+    display: block;
+    text-align: left;
+}
+
+.formCompra label {
+    display: block;
+    margin: 0.5em;
+    padding: 0.5em;
+
+}
+.tostyAlert {
+    background-color: #C1974F;
+
+}
+
+.precioTachado {
+    text-decoration:line-through;
+    color: red;
+}
+
+.aplicaCupon {
+    display: block;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid #9e793a; 
+}
+
+.butCenter {
+    width: auto;
+    text-align: center;
+    padding-left: 30%;
+}
+
+.titFinCompra {
+    color: #C1974F;
+}
